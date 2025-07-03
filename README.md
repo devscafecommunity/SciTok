@@ -29,19 +29,18 @@
 ## 🧪 Como usar
 
 1. Abra o app no navegador:
-   ```bash
-   https://scitok.devscafe.org
-
-    Role para baixo e descubra um novo artigo a cada scroll!
+```bash
+https://scitok.devscafe.org
+Role para baixo e descubra um novo artigo a cada scroll!
+```
 
 📦 Instalação local (opcional)
-
+```
 git clone https://github.com/devscafecommunity/SciTok.git
 cd scitok
 npm install
 npm run dev
-
-    Ou abra diretamente o index.html no navegador se estiver usando a versão vanilla.
+```
 
 📚 Fontes de dados
 
